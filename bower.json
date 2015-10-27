@@ -1,0 +1,23 @@
+{
+  "name": "foggy",
+  "description": "jQuery plugin for blurring page elements",
+  "main": "jquery.foggy.js",
+  "authors": [
+    "Bartlomiej Niemtur"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "foggy",
+    "jquery",
+    "plugin"
+  ],
+  "homepage": "https://github.com/nbartlomiej/foggy",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
